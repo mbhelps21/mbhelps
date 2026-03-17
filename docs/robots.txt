@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbhelps1.readthedocs.io/en/latest/
