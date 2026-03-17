@@ -22,7 +22,6 @@ html_favicon = '_static/favicon.png'
 # Google & Bing Verification Meta Tags
 html_context = {
     "meta_tags": """
-    <meta name="google-site-verification" content="Cva8KgvW-eQpRtsdf8vIcSb023IJtLJfC8PxJAlQ0mc" />
      <meta name="msvalidate.01" content="B807FE4A03DB636D50EF7962DDBBE11F" />
     """
 }
